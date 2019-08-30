@@ -4,7 +4,7 @@
 #
 Name     : mvn-minimal-json
 Version  : 0.9.1
-Release  : 2
+Release  : 3
 URL      : https://github.com/ralfstx/minimal-json/archive/0.9.1.tar.gz
 Source0  : https://github.com/ralfstx/minimal-json/archive/0.9.1.tar.gz
 Source1  : https://repo1.maven.org/maven2/com/eclipsesource/minimal-json/minimal-json/0.9.1/minimal-json-0.9.1.jar
